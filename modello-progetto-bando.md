@@ -23,17 +23,37 @@ cui e attraverso cui si desidera svolgere il proprio progetto;_
 - ambito generale
 - stato dell’arte
 
-L'ambito di ricerca accolto dal progetto proposto, si struttura dalle relazioni tra
-scrittura, opera, strumento, interprete, formazione.
-Attraverso le indagini di scrittura e strumento definisce consapevolezza verso
-un pensiero creativo e relativa prassi, non incline a fini prestabiliti ma in continua
-tendenza verso presupposti utopici. In ascolto.
-Lo stato dell'arte della pratica musicale da cui il progetto è scalfito, pone, ad un
-fare musicale attento,la necessità di un pensare creativo e analitico il ruolo dell'interprete,
-poiché attraverso gli esiti dall'alta (de)formazione artistica, facilmente si confonde
-la figura dell'esecutore con il ruolo dell'interprete, precludendo così fondamentali
-contributi nel campo della ricerca musicale, di un fare musicale condiviso,
-consumato nel fine prestabilito dal dominio dell'intrattenimento.
+La ricerca sul suono, nelle possibilità individuabili attraverso la ricerca
+musicale, nell'articolazione delle peculiarità di cui dispone, determina
+l'ambito generale in cui il progetto si inscrive tracciando percorsi unici e di
+indipendenza dalla ricerca scientifica e universitaria. I luoghi della ricerca,
+i soggetti coinvolti e gli oggetti individuati sono accessibili e attivi solo
+in un processo musicale.
+
+L'ambito generale in cui il progetto si inscrive è quello della musica di
+ricerca che, con radici profonde nei piccoli laboratori sperimentali del
+novecento, oggi è fortemente rappresentato da centri di ricerca storici e
+nuovi laboratori indipendenti, la cui attività musicale si riversa nella
+pratica, nella didattica e nella divulgazione musicale a più livelli. Questo
+livello di contro-reazione (feedback) è possibile solo in condivisione di un
+processo musicale mediante l'ascolto.
+
+Il progetto è inserito in una pratica quotidiana di ricerca presso laboratori
+e centri specializzati.
+
+Lo stato dell'arte in cui si innesta il progetto di ricerca è teso da un continuo
+approfondimento della capacità di analisi nel ruolo dell'interprete.
+Osservare le tecnologie: strumenti musicali: strumenti di pensiero, rende possibile
+la visione di tracce di evoluzione del pensiero musicale sottili, rilevanti:
+un clarinetto evoluto apre per Mozart un varco ulteriore al proprio
+sistema di linguaggio.
+Interpretare un'opera di Domenico Guaccero, ri-apre la necessità di progredire
+nell'analisi verso un pensare oggi le tecnologie.
+
+>... un pensiero nuovo, con la sua forza dirompente, ha dato il primo impulso,
+cioè dove, prima ancora di ogni formulabile etica, la spinta morale è stata
+abbastanza grande da concepire e progettare una nuova possibile etica.
+
 
 _b) formulare il problema e una o più domande di ricerca relative ad esso che
 possano guidare l’esplorazione dell’argomento._
@@ -68,10 +88,25 @@ interlocutori dediti ad pensiero in ascolto, volti alla creazione e quindi nel r
 _a) descrivere cosa si intende fare in termini pratici per indagare il proprio
 argomento di ricerca;_
 
+_lo studio delle proprietà fisiche e psicoacustiche che definiscono il timbro di un determinato strumento, di una voce o di un suono complesso;_
+
+Carlo Rovelli, testimone della ricerca scientifica, afferma che è la _capacità di cambiare l'organizzazione dei nostri pensieri che ci permette salti in avanti_,
+
+La coniugazione del rigore scientifico alla creatività del pensiero analogico suggerisce preziose insenature di esplorazione.
+_Luz, da Descrizione del corpo_ di Domenico Guaccero è una delle opere del corpus di oggetto di indagine.
+In una pratica laboratoriale quotidiana condivisa, non possiamo che _saltare_ interrogando l'analisi del concetto di timbro attraverso l'interpretazione di _Luz_.
+Guaccero crea un _luogo di ascolto_ per strumento grave, l'opera rompe gli argini saltando nell'esperienza del suono verso la _soglia dell'udibilità_ con l'interpretazione di 24 tipologie di timbri differenti, accompagnati da un _silenzio animato_.
+Non è sufficiente argomentare il timbro come il parametro di riconoscimento di uno strumento come il clarinetto.
+Il sapiente ascolto della tecnologia manipola l'esperienza del silenzio, evocando la soglia dell'arte attraverso un coro animato messo in vibrazione da [... :)]
+
+
+
+
+
 Il progetto prevede di indagare le problematiche precedentemente esposte
 nell'esplorazione multipla di percorsi tra loro interconnessi:
 
-**attraverso l'organismo di relazioni tra inteprete e ambiente mediante lo strumento acustico,
+**attraverso l'organismo di relazioni tra intreprete e ambiente mediante lo strumento acustico,
 elettroacustico e aumentato**
 –
 –
