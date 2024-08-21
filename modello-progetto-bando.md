@@ -1,10 +1,13 @@
-###### Nome e Cognome del candidato / ALICE CORTEGIANI
-###### Titolo del progetto / ---
+###### ALICE CORTEGIANI
+
+###### AUTOCOSTRUZIONE DI UN INTERPRETE. PER QUALE MUSICA?
+                            
 ###### Sommario / Abstract
 [massimo di 150 parole]
 
 ###### Key words
 [massimo 5 key words]
+
 
 ###### Descrizione del progetto di ricerca (massimo 2.000 parole / 2.000 words)
 
@@ -13,6 +16,8 @@
 _a) descrivere l’ambito generale e lo stato dell’arte della pratica musicale in
 cui e attraverso cui si desidera svolgere il proprio progetto;_
 
+- A 300 parole: ambito generale 
+- B 300 parole: stato dell’arte
 
 L'ambito di ricerca accolto dal progetto proposto, si struttura dalle relazioni tra
 scrittura, opera, strumento, interprete, formazione.
@@ -26,10 +31,11 @@ la figura dell'esecutore con il ruolo dell'interprete, precludendo così fondame
 contributi nel campo della ricerca musicale, di un fare musicale condiviso,
 consumato nel fine prestabilito dal dominio dell'intrattenimento.
 
-
-
 _b) formulare il problema e una o più domande di ricerca relative ad esso che
 possano guidare l’esplorazione dell’argomento._
+
+- A 300 parole: problema
+- B 300 parole: domande
 
 Nel campo di una formazione basata sul "repertorio", non vengono forniti gli strumenti
 di ascolto e lettura della letteratura; la prassi musicale contemporanea decede dal
@@ -38,7 +44,6 @@ cura e responsabilità; due esempi:
 Si parla di timbro da nozioni di acustica senza l'approfondimento e la focalizzazione musicale.
 Si parla di tecniche estese dello strumento quando l'uomo stesso non estende sé stesso
 nell'esplorazione dello strumento.
-
 
 
 **2. Metodi e processo di ricerca (600 parole):**
