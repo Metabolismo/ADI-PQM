@@ -1,9 +1,12 @@
 ###### ALICE CORTEGIANI
 
 ###### AUTOCOSTRUZIONE DI UN INTERPRETE. PER QUALE MUSICA?
-                            
+
 ###### Sommario / Abstract
+
 [massimo di 150 parole]
+
+Lorem ipsum malesuada convallis est aliquet erat egestas morbi viverra tincidunt, sit consequat vehicula interdum elementum vestibulum adipiscing enim iaculis donec, luctus consequat taciti ornare praesent hendrerit dictumst ac tortor. Cubilia quis id volutpat fusce gravida quisque purus, quam in ut placerat eros leo, quis ac sit sociosqu sed senectus. Potenti lobortis interdum porta senectus fusce dolor ullamcorper laoreet nullam ante viverra ipsum quam lobortis elit, lobortis ornare vitae duis malesuada volutpat aliquam lorem consectetur urna ullamcorper mi commodo aliquet. Iaculis scelerisque facilisis ut sit cursus mattis litora rutrum aptent nisi posuere, arcu per cras bibendum volutpat metus amet fermentum vulputate laoreet, consectetur erat pulvinar accumsan quisque fermentum aenean hendrerit varius senectus. Curae ornare consequat elementum adipiscing bibendum quisque curae id egestas, elit potenti pulvinar et tempor quam tellus erat interdum, inceptos arcu nunc hac etiam aenean et metus. Curae ornare consequat elementum adipiscing bibendum quisque curae id egestas.
 
 ###### Key words
 [massimo 5 key words]
@@ -16,7 +19,7 @@
 _a) descrivere l’ambito generale e lo stato dell’arte della pratica musicale in
 cui e attraverso cui si desidera svolgere il proprio progetto;_
 
-- A 300 parole: ambito generale 
+- A 300 parole: ambito generale
 - B 300 parole: stato dell’arte
 
 L'ambito di ricerca accolto dal progetto proposto, si struttura dalle relazioni tra
