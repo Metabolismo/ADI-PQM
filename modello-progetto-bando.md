@@ -43,19 +43,24 @@ possano guidare l’esplorazione dell’argomento._
 - domande
 
 
-Intraprendere il percorso di interprete nella musica contemporanea di ricerca è un atto che conduce inevitabilmente 
-all'individuazione di problemi nel campo della formazione e del repertorio. 
+Intraprendere il percorso di interprete nella musica contemporanea di ricerca è un atto che conduce inevitabilmente
+all'individuazione di problemi nel campo della formazione e del repertorio.
 
 Repertorio [...]
 
 I programmi di studio dei corsi strumentali adottati dai conservatori di musica italiani favoriscono un percorso formativo
 fondato sul repertorio d'intrattenimento, cristallizzando la sensibilità del musicista in una prassi parziale resa assoluta,
 quindi distorta.
-La prassi del repertorio di musica contemporanea di ricerca costruisce e si costruisce attraverso lo strumento come strumento
-di pensiero, l'interprete è anello attivo della catena, generato e generatore. 
+Riconoscere la pluralità del repertorio è elemento essenziale per avere accesso, dalla teoria,
+alla complessità dei linguaggi musicali strutturati.
+La prassi del repertorio di musica contemporanea di ricerca costruisce e si costituisce nel processo;
+attraverso lo strumento acustico, strumento di pensiero, l'interprete è anello attivo della catena, generato e generatore.
 
-con conseguente esito di edificazione del musicista attraverso una parziale e distorta prassi, 
-che rende totalizzante la visione limitata, ridotta. 
+Nel dominio dell'intrattenimento la chiave di lettura tende, sovente, erroneamente a sottovalutare aspetti fondamentali di apporto storico-sociale
+che hanno nutrito la creazione musicale, favorendo ambizione e gratificazione nel risultato alla riproduzione del testo scritto.
+Reperire, trovare, partecipare al processo creativo di musica contemporanea di ricerca comporta un costante confronto:
+con le domande fondamentali di cui si nutre la prassi interpretativa, con gli strumenti da costruire per avere accesso al dialogo con
+interlocutori dediti ad pensiero in ascolto, volti alla creazione e quindi nel reperire opere di ricerca dal pensiero musicale.
 
 
 
