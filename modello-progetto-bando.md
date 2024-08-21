@@ -19,8 +19,9 @@ Lorem ipsum malesuada convallis est aliquet erat egestas morbi viverra tincidunt
 _a) descrivere l’ambito generale e lo stato dell’arte della pratica musicale in
 cui e attraverso cui si desidera svolgere il proprio progetto;_
 
-- A 300 parole: ambito generale
-- B 300 parole: stato dell’arte
+300 parole:
+- ambito generale
+- stato dell’arte
 
 L'ambito di ricerca accolto dal progetto proposto, si struttura dalle relazioni tra
 scrittura, opera, strumento, interprete, formazione.
@@ -37,16 +38,25 @@ consumato nel fine prestabilito dal dominio dell'intrattenimento.
 _b) formulare il problema e una o più domande di ricerca relative ad esso che
 possano guidare l’esplorazione dell’argomento._
 
-- A 300 parole: problema
-- B 300 parole: domande
+300 parole:
+- problema: formazione sul repertorio, distinzione tra repertorio d'intrattenimento e di musica di ricerca
+- domande
 
-Nel campo di una formazione basata sul "repertorio", non vengono forniti gli strumenti
-di ascolto e lettura della letteratura; la prassi musicale contemporanea decede dal
-momento in cui si è inosservanti dei minimi termini per cui un musicista dovrebbe aver
-cura e responsabilità; due esempi:
-Si parla di timbro da nozioni di acustica senza l'approfondimento e la focalizzazione musicale.
-Si parla di tecniche estese dello strumento quando l'uomo stesso non estende sé stesso
-nell'esplorazione dello strumento.
+
+Intraprendere il percorso di interprete nella musica contemporanea di ricerca è un atto che conduce inevitabilmente 
+all'individuazione di problemi nel campo della formazione e del repertorio. 
+
+Repertorio [...]
+
+I programmi di studio dei corsi strumentali adottati dai conservatori di musica italiani favoriscono un percorso formativo
+fondato sul repertorio d'intrattenimento, cristallizzando la sensibilità del musicista in una prassi parziale resa assoluta,
+quindi distorta.
+La prassi del repertorio di musica contemporanea di ricerca costruisce e si costruisce attraverso lo strumento come strumento
+di pensiero, l'interprete è anello attivo della catena, generato e generatore. 
+
+con conseguente esito di edificazione del musicista attraverso una parziale e distorta prassi, 
+che rende totalizzante la visione limitata, ridotta. 
+
 
 
 **2. Metodi e processo di ricerca (600 parole):**
