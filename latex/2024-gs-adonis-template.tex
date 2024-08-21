@@ -1,0 +1,259 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+%!TEX root = 2024-gs-adonis-template.tex
+%
+\documentclass{gs-adonis}
+\usepackage[english,italian]{babel}
+%-------------------------------------------------------------------------------
+%--------------------------------------------------------------------- CUSTOMS -
+%-------------------------------------------------------------------------------
+% \usepackage{showframe}
+% \renewcommand\ShowFrameLinethickness{0.15pt}
+% \renewcommand*\ShowFrameColor{\color{red}}
+% %
+% \usepackage{tikz}
+% \usetikzlibrary{
+%   shapes,
+%   through,
+%   calc,
+%   intersections,
+%   backgrounds,
+%   positioning,
+%   decorations.text
+%   }
+% \usetikzlibrary{arrows.meta}
+% \usetikzlibrary{bending}
+\usepackage[
+  small,
+  labelfont=bf,
+  up,
+  textfont=it,
+  up
+  ]{caption}
+%
+\usepackage{paralist}
+\usepackage{subfigure}
+%\usepackage{glossaries}
+%\input{includes/glossario.tex}
+%\makeglossaries
+\usepackage{csquotes}
+\usepackage[style=ieee,backend=biber]{biblatex}
+\bibliography{includes/bibliografia.bib}
+\usepackage{enumitem}
+\usepackage{adjustbox}
+\usepackage{hhline}
+\DeclareLabelname[movie]{
+    \field{director}
+    \field{producer}
+  }
+\usepackage{scrextend}
+\usepackage{calc}
+\usepackage{mwe}
+
+\usepackage{todonotes}
+\usepackage{hyperref}
+%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------ MAIN -
+%-------------------------------------------------------------------------------
+\title{Autocostruzione di un interprete. Per quale musica?}
+\subtitle{sottotitolo?}
+\author{Alice Cortegiani \textsuperscript{1}}
+% secondary details
+%\affiliation{\textsuperscript{1} Spherical Technologies SRLS}
+\correspondence{alicecortegiani@gmail.com}
+\version{\today}
+% headers
+\runningauthor{Alice Cortegiani}
+\runningtitle{Autocostruzione di un interprete. Per quale musica?}
+%-------------------------------------------------------------------------------
+%--------------------------------------------------------------------- COMANDI -
+%-------------------------------------------------------------------------------
+% \newcommand{\studi}{\emph{Sei studi di Agamotto sul Tempo}}
+% \newcommand{\tempo}{\emph{Tempo}}
+% \newcommand{\canto}{\emph{canto alla durata}}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------- ABSTRACT -
+%-------------------------------------------------------------------------------
+\abstract{%
+  %\begin{addmargin*}[0pt]{-\marginparsep-\marginparwidth}
+  \input{includes/abstract.txt}
+  %\end{addmargin*}
+}
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------- DOCUMENT -
+%-------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+%\input{includes/000-citazioni.tex}
+%
+%\clearpage
+%-------------------------------------------------------------------------------
+%--------------------------------------------------------------------- APPUNTI -
+%-------------------------------------------------------------------------------
+% \section*{APPUNTI}
+% \begin{compactitem}
+%   \item questione etica
+%   \item diagrammi a blocchi
+%   \item storia di una ricerca, fagioli, sogno, immagine
+%   \item rappresentazione
+%   \item feedback
+%   \item interfaccia
+%   \item tecnica
+%   \item musica
+%   \item invenzione
+%   \item{bibliografia da compilare:}
+%   \begin{compactitem}
+%     \item Bergson
+%     \item Barthes
+%     \item Borges
+%     \item Branchi
+%     \item Cacciari
+%     \item Candiani
+%     \item Di Scipio
+%     \item Galante
+%     \item Guaccero
+%     \item Handke
+%     \item Ferraris
+%     \item Lupone
+%     \item Netti
+%     \item Nono
+%     \item Ronchi
+%     \item Sartre
+%   \end{compactitem}
+% \end{compactitem}
+%
+%\clearpage
+%-------------------------------------------------------------------------------
+%--------------------------------------------------------------------- APPUNTI -
+%-------------------------------------------------------------------------------
+%\tableofcontents
+%\clearpage
+%-------------------------------------------------------------------------------
+%-------------------------------------------------------------------- INCLUDES -
+%-------------------------------------------------------------------------------
+% \input{includes/000-introduzione.tex}
+% \input{includes/100-ciclobase.tex}
+% \input{includes/200-cad.tex}
+% \input{includes/300-tempo.tex}
+
+% \clearpage
+%
+% \tiny
+% \twocolumn
+% \printglossary[title={glossarietto}]
+%
+% \clearpage
+
+%\normalsize
+%\onecolumn
+
+\section{Key words}
+
+[massimo 5 key words]
+
+
+\section{Descrizione del progetto di ricerca}% (massimo 2.000 parole / 2.000 words)}
+
+\subsection{1. Descrizione del soggetto di ricerca (600 parole):}
+
+\emph{a) descrivere l’ambito generale e lo stato dell’arte della pratica musicale in cui e attraverso cui si desidera svolgere il proprio progetto;}
+
+La ricerca sul suono, nelle possibilità individuabili attraverso la ricerca
+musicale, nell'articolazione delle peculiarità di cui dispone, determina
+l'ambito generale in cui il progetto si inscrive tracciando percorsi unici e di
+indipendenza dalla ricerca scientifica e universitaria. I luoghi della ricerca,
+i soggetti coinvolti e gli oggetti individuati sono accessibili e attivi solo
+in un processo musicale.
+
+L'ambito generale in cui il progetto si inscrive è quello della musica di
+ricerca che, con radici profonde nei piccoli laboratori sperimentali del
+novecento, oggi è fortemente rappresentato da centri di ricerca storici e
+nuovi laboratori indipendenti, la cui attività musicale si riversa nella
+pratica, nella didattica e nella divulgazione musicale a piu livelli. Questo
+livello di contro-reazione (feedback) è possibile solo in condivisione di un
+processo musicale mediante l'ascolto. 
+
+Il progetto si struttura attraverso le relazioni tra opera, strumento,
+interprete mediante indagini di analisi e scrittura dove lo strumento definisce
+la consapevolezza verso un pensiero creativo con la sua relativa prassi, non
+incline a fini prestabiliti ma in continua tendenza verso presupposti utopici.
+In ascolto.
+
+Il progetto è inserito in una pratica quotidiana di ricerca presso laboratori
+e centri specializzati.
+
+Lo stato dell'arte della pratica musicale da cui il progetto è scalfito, pone,
+ad un fare musicale attento,la necessità di un pensare creativo e analitico il
+ruolo dell'interprete, poiché attraverso gli esiti dall'alta (de)formazione
+artistica, facilmente si confonde la figura dell'esecutore con il ruolo
+dell'interprete, precludendo così fondamentali contributi nel campo della
+ricerca musicale, di un fare musicale condiviso, consumato nel fine
+prestabilito dal dominio dell'intrattenimento.
+
+% #### SUONO, RUMORE, TIMBRO
+% Il suono, nella sua infinita varietà e complessità, rappresenta un universo
+% ancora non completamente esplorato. La musica, in particolare, offre un terreno
+% fertile per indagare le profonde connessioni tra suono, sensazione e significato.
+% Questa tematica di ricerca si propone di inve- stigare le molteplici sfaccettature
+% della creazione, manipolazione e percezione timbrica in contesti musicali.
+% Il progetto di ricerca relativo a questa tematica può comprendere:
+%
+% • lo studio delle proprietà fisiche e psicoacustiche che definiscono il timbro
+% di un determinato strumento, di una voce o di un suono complesso;
+%
+% • sperimentazione nella propria pratica compositiva o performativa di nuove tecnologie
+% per la sintesi, il campionamento e la manipolazione del suono;
+%
+% • creazione di paesaggi sonori immersivi che esplorino le potenzialità del suono
+% nello spazio e nella percezione umana;
+%
+% • uso innovativo nella propria pratica musicale di strumenti tradizionali attraverso
+% tecniche estese.
+
+\emph{b) formulare il problema e una o più domande di ricerca relative ad esso che possano guidare l’esplorazione dell’argomento.}
+
+Nel campo di una formazione basata sul "repertorio", non vengono forniti gli strumenti
+di ascolto e lettura della letteratura; la prassi musicale contemporanea decede dal
+momento in cui si è inosservanti dei minimi termini per cui un musicista dovrebbe aver
+cura e responsabilità; due esempi:
+Si parla di timbro da nozioni di acustica senza l'approfondimento e la focalizzazione musicale.
+Si parla di tecniche estese dello strumento quando l'uomo stesso non estende sé stesso
+nell'esplorazione dello strumento.
+
+\subsection{2. Metodi e processo di ricerca (600 parole):}
+
+\emph{a) descrivere cosa si intende fare in termini pratici per indagare il proprio argomento di ricerca;}
+
+\emph{b) indicare in che modo si prevede di coniugare le proprie capacità speculative e la propria pratica artistica in modo che diventino parte integrante del proprio metodo di ricerca.}
+
+\subsection{3. Possibili risultati (300 parole):}
+
+\emph{a) descrivere la forma che, al momento, il proprio lavoro finale di dottorato potrebbe assumere (tesi scritta, composizioni, performance, altri media e/o una combinazione di questi);}
+
+Tesi, Opere, Concerto.
+
+\emph{b) suggerire ulteriori modi di disseminazione e condivisione dei risultati della propria ricerca con le comunità artistiche e di ricerca, e con il pubblico in generale, durante e dopo gli studi di dottorato.}
+
+concerto
+seminari
+articoli
+concerti seminari
+laboratorio
+
+\subsection{4. Rilevanza per la conoscenza, comprensione e pratica musicale (500 parole):}
+
+\emph{a) specificare in cosa consista l’originalità e la novità della propria prospettiva di ricerca;}
+
+Focus interprete - responsabilità - cosapevolezza
+nonché metodo di insegnamento volto ad un'attitudine consapevole, dello strumento e del
+contributo che il musicista dona in merito a lettura del repertorio e relazione in ascolto
+del contemporaneo.
+
+\emph{b) descrivere dettagliatamente come il proprio progetto si relaziona alle diverse comunità di artiste/i e ricercatrici/ori e come i risultati della propria ricerca si potranno inserire negli ambiti di saperi e pratiche artistiche esistenti, in continuità o in contrasto con le conoscenze ereditate.}
+
+\raggedright
+\nocite{*}
+%\bibliographystyle{unsrt}
+\printbibliography
+
+\end{document}
