@@ -29,7 +29,7 @@ Attraverso le indagini di scrittura e strumento definisce consapevolezza verso
 un pensiero creativo e relativa prassi, non incline a fini prestabiliti ma in continua
 tendenza verso presupposti utopici. In ascolto.
 Lo stato dell'arte della pratica musicale da cui il progetto è scalfito, pone, ad un
-fare musicale attento,la necessità di un pensare creativo e analitico il ruolo dell'interprete,
+fare musicale attento, la necessità di un pensare creativo e analitico il ruolo dell'interprete,
 poiché attraverso gli esiti dall'alta (de)formazione artistica, facilmente si confonde
 la figura dell'esecutore con il ruolo dell'interprete, precludendo così fondamentali
 contributi nel campo della ricerca musicale, di un fare musicale condiviso,
@@ -67,6 +67,11 @@ interlocutori dediti ad pensiero in ascolto, volti alla creazione e quindi nel r
 **2. Metodi e processo di ricerca (600 parole):**
 _a) descrivere cosa si intende fare in termini pratici per indagare il proprio
 argomento di ricerca;_
+
+_lo studio delle proprietà fisiche e psicoacustiche che definiscono il timbro di un determinato strumento, di una voce o di un suono complesso;_
+
+La coniugazione del rigore scientifico alla creatività del pensiero analogico suggerisce insenature di esplorazione.
+
 
 Il progetto prevede di indagare le problematiche precedentemente esposte
 nell'esplorazione multipla di percorsi tra loro interconnessi:
