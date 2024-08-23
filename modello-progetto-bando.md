@@ -130,6 +130,35 @@ _
 _
 
 
+Netti:
+Scrittura di esplorazione, dello strumento e della scrittura stessa
+Che cos'è uno strumento? Percorso di approfondimento del clarinetto contrabbasso
+con la guida di Giorgio Netti.
+Scrittura di esplorazione, dello strumento e della scrittura stessa
+**prima mappatura - terre incognite** (pre-catalogo)
+
+esplorare il clarinetto
+
+
+
+_Chi  ha  esperienza  nel  campo  dell’esplorazione  (non  specificatamente  stru-mentale) sa che molto spesso la quantità d’informazione relativa ad un argo-mento  è  talmente  ricca  da  diventare  essa  stessa  un  problema.  Dove  tutto  è differentemente  importante  nulla  è  più  importante  e  si  rimane  abbandonati sulla riva senza saper che fare: dunque, farsi ammaliare dal suono-sirena si ma, prendendo esempio da Ulisse, nume tutelare di tutti gli esploratori, farsi ammaliare legati... farsi ammaliare a distanza, dentro ma fuori, due ma non due._
+
+_Lo strumento è per me l’urtext se paragonato alle successive traduzioni, interpreta-zioni e commenti, alcuni dei quali sicuramente importantissimi per approfondire, o meglio specificare una direzione (e più il filtro che si frappone fra noi e il testo origi-nale è profondo più l’originale ne risulterà alterato in una prospettiva specifica: Hei-degger che legge i greci, Deleuze che guarda Bacon, Stravinsky che ascolta il Ba-rocco, Boulez che analizza la Sagra..._
+
+_Dunque studiare lo strumento: .   attraverso la sua letteratura, scritta e non: il contrabbasso, ad esempio, ha   una nutrita schiera di cosiddetti improvvisatori_
+
+_Mi interessa poter arrivare a farmi   un’idea sufficientemente precisa di cosa dovee comesi nasconde quel in-  ascoltato che mi attrae nel già fatto dagli altri, ma che per come è realizzato   nelle fonti non mi basta ancora. Questo vuol dire che la pratica strumentale   di cui sto parlando si concentra solo su alcuni aspetti tralasciando tutti gli   altri, cosa che ovviamente lo strumentista completo non può fare (l’improv-   visatore invece si... e qui troviamo un ponte interessante, ma proseguo)._
+
+_La pratica dell’orientamento si basa su dei riferimenti cardinali, vale a dire riferimenti attorno ai quali tutto il resto ruota. I riferimenti sono collegati fra loro da uno, due o più assi secondo precise angolazioni che stabiliscono le relazioni fra i riferimenti non appartenenti allo stesso asse._
+
+_l’ogget-   tività del linguaggio è qualcosa   che si può sperare di raggiungere    solo dopo aver acquisito una    buona conoscenza dell’argo-    mento, e questa è solo una tavola    inziale..._
+
+_Una sproporzione che può giustificarsi solo in termini qualitativi: certo, non di me-glio o peggio ma, almeno per quanto mi riguarda, di maggiore o minore pro-fodità raggiunta. A questo proposito credo che il ruolo del compositore do-vrebbe essere quello di contestualizzare, integrare e superare l’interpretazione abituale dei vari elementi in gioco e, un po' come per la fisica teorica, a partire da dati certi formulare nuove relazioni supposte, che i musicisti (la fisica spe-rimentale) si incaricheranno di “provare”._
+
+_Dopo la prima fase esplorativa, subentra la necessità di “dare dei nomi” a ciò che si incontra, elaborando progressivamente una mappa sempre più precisa del territorio in corso di esplorazione.Non è quindi un’esplorazione che “cerca”, ne tantomeno che si “perde”, quanto piut-tosto un’esplorazione che va incontro e, per dirla con Picasso, “trova”, raccogliendo poi in un certo ordine e grazie ad un certo ordine; “io non cerco, trovo” diceva, affer-mazione che incrocio subito con una di Edgard Varèse: “I do not write experimental music. My experimenting is done before I make the music. Afterwards, it is the lis-tener who must experiment.” Ma torniamo al racconto._
+
+
+
 
 [
 Indagini delle opere ...
@@ -165,7 +194,8 @@ concerto
 seminari
 articoli
 concerti seminari
-laboratorio
+Laboratorio
+
 
 
 
