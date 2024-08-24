@@ -129,19 +129,44 @@ _
 _
 _
 
-
+" Mediante analisi del repertorio che concede esplo- razione radicale dello strumento, analisi dei segnali prodotti dallo strumento con l’uso di tecnologie in grado di descriverne il comportamento spaziale (che coinci- de con quello timbrico), una scrittura dedicata all’esplorazione (dello strumento e della scrittura stessa) il clarinetto si definisce a luogo di pensiero ed esplorazio- ne, di esperienza e consapevolezza, verso un pensiero creativo che possa definirsi in prassi."
 Netti:
-Scrittura di esplorazione, dello strumento e della scrittura stessa
+
 Che cos'è uno strumento? Percorso di approfondimento del clarinetto contrabbasso
-con la guida di Giorgio Netti.
-Scrittura di esplorazione, dello strumento e della scrittura stessa
-**prima mappatura - terre incognite** (pre-catalogo)
+con la guida di Giorgio Netti; scrittura di esplorazione, dello strumento e della
+scrittura stessa.
+_Chi  ha  esperienza  nel  campo  dell’esplorazione  (non  specificatamente  
+strumentale) sa che molto spesso la quantità d’informazione relativa ad un
+argomento  è  talmente  ricca  da  diventare  essa  stessa  un  problema.  
+Dove  tutto  è differentemente  importante  nulla  è  più  importante  e  si  
+rimane  abbandonati sulla riva senza saper che fare: dunque, farsi ammaliare dal
+suono-sirena si ma, prendendo esempio da Ulisse, nume tutelare di tutti gli
+esploratori, farsi ammaliare legati..._
+Esplorando il clarinetto contrabbasso, luogo di pensiero, in maniera radicale,
+sferica, è subentrata la necessità di estendere la pratica corporea ad una
+conoscenza più stratificata, approfondita e lontana dai filtri di quanto ad oggi
+risulta evinto. Un percorso con l'intento di contestualizzare, integrare e superare
+l’interpretazione abituale dei vari elementi caratterizzanti dello strumento.
+Con la guida della profonda attenzione di Netti nella tendenza ad _esplorare gli
+strumenti come se fossero città antiche: ognuno di loro con un suo centro storico
+costituito da tutto ciò a cui scolasticamente associamo a quello strumento ed una
+periferia, progressivamente meno definita, fatta da ciò che è incerto, meno
+omogeneo, nascosto._
+Esplorare, in maniera inalterata un luogo, originale. Porlo in relazione dalla
+prospettiva da cui non è stato ascoltato, predisporre zone periferiche dello stesso
+per una prima mappatura che tracci come quelle particolarità, caratteristiche,
+o meglio _criticità, si relazionino all'intera storia dello strumento o piuttosto
+come è ascoltata o pensata a partire da quella caratteristica, l'intera storia dello
+strumento assume una prospettiva differente che in dialogo con le precedenti
+contribuisce ad estenderne i confini, e quindi, il senso._ verso un _Catalogo_
+che emerga dall' "andare incontro" allo strumento.
 
-esplorare il clarinetto
 
 
 
-_Chi  ha  esperienza  nel  campo  dell’esplorazione  (non  specificatamente  stru-mentale) sa che molto spesso la quantità d’informazione relativa ad un argo-mento  è  talmente  ricca  da  diventare  essa  stessa  un  problema.  Dove  tutto  è differentemente  importante  nulla  è  più  importante  e  si  rimane  abbandonati sulla riva senza saper che fare: dunque, farsi ammaliare dal suono-sirena si ma, prendendo esempio da Ulisse, nume tutelare di tutti gli esploratori, farsi ammaliare legati... farsi ammaliare a distanza, dentro ma fuori, due ma non due._
+
+
+ farsi ammaliare a distanza, dentro ma fuori, due ma non due._
 
 _Lo strumento è per me l’urtext se paragonato alle successive traduzioni, interpreta-zioni e commenti, alcuni dei quali sicuramente importantissimi per approfondire, o meglio specificare una direzione (e più il filtro che si frappone fra noi e il testo origi-nale è profondo più l’originale ne risulterà alterato in una prospettiva specifica: Hei-degger che legge i greci, Deleuze che guarda Bacon, Stravinsky che ascolta il Ba-rocco, Boulez che analizza la Sagra..._
 
